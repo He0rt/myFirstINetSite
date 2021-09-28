@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Logo"
+   width="138"
+   height="28"
+   viewBox="0 0 138 28"
+   version="1.1"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="4.3733017"
+     inkscape:cx="96.15161"
+     inkscape:cy="11.66167"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Logo" />
+  <defs
+     id="defs25">
+    <style
+       id="style23">
+      .cls-1 {
+        font-size: 28px;
+        text-anchor: middle;
+        fill: #fefefe;
+        font-family: RobotoSlab;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #65e496;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #44444f;
+      }
+    </style>
+  </defs>
+  <g
+     id="g329">
+    <g
+       aria-label="BUKEE"
+       id="BUKEE"
+       class="cls-1"
+       style="font-weight:700;font-size:28px;font-family:RobotoSlab;text-anchor:middle;fill:#fefefe">
+      <path
+         d="M 41.551758,23 V 2.3964844 h 7.410156 q 4.703125,0 6.384766,1.2441406 1.695312,1.2304687 1.695312,3.4863281 0,2.9804689 -2.925781,4.3339849 v 0.109375 q 4.416016,0.929687 4.416016,5.099609 0,2.912109 -2.1875,4.621094 Q 54.170898,23 50.02832,23 Z M 46.036133,5.6367187 v 4.9902343 h 1.695312 q 2.091797,0 2.966797,-0.21875 0.875,-0.232422 1.298828,-0.861328 0.423828,-0.6425781 0.423828,-1.5996094 0,-0.765625 -0.382812,-1.3125 Q 51.668945,6.0878906 50.821289,5.8691406 49.973633,5.6367187 47.40332,5.6367187 Z m 0,8.0527343 v 6.070313 h 1.408203 q 1.873047,0 2.884766,-0.04102 1.011718,-0.04102 1.832031,-0.396484 0.833984,-0.355469 1.257812,-1.025391 0.4375,-0.669922 0.4375,-1.626953 0,-1.039063 -0.451172,-1.708984 -0.4375,-0.669922 -1.285156,-0.970704 -0.833984,-0.300781 -3.923828,-0.300781 z"
+         style="font-weight:700;font-size:28px;font-family:RobotoSlab;text-anchor:middle;fill:#fefefe"
+         id="path117" />
+      <path
+         d="m 79.313477,15.289063 q 0,4.060546 -2.283204,6.097656 -2.269531,2.037109 -6.49414,2.037109 -4.238281,0 -6.507813,-2.050781 -2.255859,-2.064453 -2.255859,-6.083984 V 2.3964844 h 4.525391 V 15.166016 q 0,2.570312 1.052734,3.71875 1.052734,1.148437 3.185547,1.148437 2.1875,0 3.21289,-1.134766 Q 74.788086,17.75 74.788086,15.193359 V 2.3964844 h 4.525391 z"
+         style="font-weight:700;font-size:28px;font-family:RobotoSlab;text-anchor:middle;fill:#fefefe"
+         id="path119" />
+      <path
+         d="m 102.32324,23 h -5.578123 l -6.78125,-8.53125 -1.53125,1.736328 V 23 H 83.948242 V 2.3964844 h 4.511719 v 9.7890626 l 8.216797,-9.7890626 h 5.250002 l -8.421877,9.5703126 z"
+         style="font-weight:700;font-size:28px;font-family:RobotoSlab;text-anchor:middle;fill:#fefefe"
+         id="path121" />
+      <path
+         d="M 119.1123,23 H 104.75684 V 2.3964844 h 14.35546 v 3.4179687 h -9.87109 v 4.4023439 h 9.17383 v 3.404297 h -9.17383 v 5.960937 h 9.87109 z"
+         style="fill:#65e496"
+         id="path123" />
+      <path
+         d="M 137.40527,23 H 123.0498 V 2.3964844 h 14.35547 v 3.4179687 h -9.87109 v 4.4023439 h 9.17383 v 3.404297 h -9.17383 v 5.960937 h 9.87109 z"
+         style="fill:#65e496"
+         id="path125" />
+    </g>
+    <g
+       id="logo_icon"
+       data-name="logo icon">
+      <path
+         id="Rectangle_10_copy_3"
+         data-name="Rectangle 10 copy 3"
+         class="cls-3"
+         d="M242,78L214,50h28V78Z"
+         transform="translate(-214 -50)" />
+      <path
+         class="cls-4"
+         d="M243,50L215,78V50h28Z"
+         transform="translate(-214 -50)"
+         id="path31" />
+    </g>
+  </g>
+</svg>
